@@ -22,6 +22,7 @@
 
 2. Высшее образование: 5 курс (зачное отделение). Специльность прикладная информатика.
 
+![Static Badge](https://img.shields.io/badge/c%23-red?style=for-the-badge&logo=C%23&logoColor=6d287e&labelColor=white&color=8e34a4)
 
 #### Хобби:
 + Пчеловод :bee:
